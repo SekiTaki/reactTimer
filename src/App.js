@@ -7,7 +7,6 @@ function App() {
   return (
     <div className="App">
         <TimeComponent />
-        table 1
         <MyForm />
     </div>
   );

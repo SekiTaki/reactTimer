@@ -15,8 +15,8 @@ const TimeComponent = () => {
 
   return (
     <div>
-      <h1>Current Time:</h1>
-      <p>{time.toLocaleTimeString()}</p>
+      <h1 className='text-3xl font-bold'>監聽時間</h1>
+      <h2 className='text-xl font-bold'>{time.toLocaleTimeString()}</h2>
     </div>
   );
 };
