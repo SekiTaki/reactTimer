@@ -1,7 +1,7 @@
 import './App.css';
 
 import TimeComponent from './components/Timer';
-import MyForm from './components/Input';
+import MyForm from './components/MyForm';
 
 function App() {
   return (
